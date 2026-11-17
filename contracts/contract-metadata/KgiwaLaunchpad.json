@@ -1,0 +1,17 @@
+{
+  "name": "KgiwaLaunchpad",
+  "version": "v2.2",
+  "contractAddress": "0xBFF28ff8D112f206Ae1cef3C05Fdc8A7692a63E4",
+  "network": "GIWA-SEPOLIA",
+  "chainId": 91342,
+  "deployerAddress": "0x27F5747b7791b28eadaA9a3f4EAD7076B0013DA4",
+  "platformWallet": "0x27F5747b7791b28eadaA9a3f4EAD7076B0013DA4",
+  "blockNumber": 41545572,
+  "deployedVia": "Remix",
+  "contract_code_path": "contracts/KgiwaLaunchpad.sol",
+  "contract_compiled_code_path": "contracts/out/KgiwaLaunchpad.sol/KgiwaLaunchpad.json",
+  "contract_network_and_links": {
+    "GIWA-SEPOLIA": "https://sepolia-explorer.giwa.io/address/0xBFF28ff8D112f206Ae1cef3C05Fdc8A7692a63E4"
+  },
+  "owner": "0x27F5747b7791b28eadaA9a3f4EAD7076B0013DA4"
+}
